@@ -1,2 +1,0 @@
-# Apptask
-Ejercicio de clase
